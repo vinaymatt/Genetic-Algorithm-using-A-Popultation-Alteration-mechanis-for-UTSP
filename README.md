@@ -28,13 +28,13 @@ The genetic algorithm follows these steps:
 
 # Usage
 
-Ensure that the necessary input files (Faculty.txt, etc.) are present in the same directory as the code file.
+- Ensure that the necessary input files (Faculty.txt, etc.) are present in the same directory as the code file.
 
-Compile and run the code using a C compiler.
+- Compile and run the code using a C compiler.
 
-The code will generate an initial population of timetables, perform crossover operations, and replace parents based on fitness evaluations.
+- The code will generate an initial population of timetables, perform crossover operations, and replace parents based on fitness evaluations.
 
-The resulting population of timetables will be displayed, showing the fitness values and the allocation of subjects, labs, and rooms for each timetable.
+- The resulting population of timetables will be displayed, showing the fitness values and the allocation of subjects, labs, and rooms for each timetable.
 Note
 
-The code can be further modified and extended to include additional constraints and improve the fitness evaluation process.
+- The code can be further modified and extended to include additional constraints and improve the fitness evaluation process.
